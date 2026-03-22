@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#1a1200"/>
+  <!-- Locomotive body -->
+  <rect x="60" y="200" width="340" height="160" rx="20" fill="#f5a623"/>
+  <!-- Cabin -->
+  <rect x="280" y="140" width="120" height="80" rx="10" fill="#f5a623"/>
+  <!-- Windows -->
+  <rect x="100" y="230" width="60" height="45" rx="6" fill="#0d0d0d"/>
+  <rect x="180" y="230" width="60" height="45" rx="6" fill="#0d0d0d"/>
+  <rect x="295" y="155" width="45" height="35" rx="5" fill="#0d0d0d"/>
+  <rect x="350" y="155" width="35" height="35" rx="5" fill="#0d0d0d"/>
+  <!-- Chimney -->
+  <rect x="100" y="155" width="30" height="50" rx="5" fill="#f5a623"/>
+  <rect x="90" y="145" width="50" height="18" rx="5" fill="#f5a623"/>
+  <!-- Wheels -->
+  <circle cx="130" cy="370" r="40" fill="#0d0d0d" stroke="#f5a623" stroke-width="8"/>
+  <circle cx="130" cy="370" r="15" fill="#f5a623"/>
+  <circle cx="260" cy="370" r="40" fill="#0d0d0d" stroke="#f5a623" stroke-width="8"/>
+  <circle cx="260" cy="370" r="15" fill="#f5a623"/>
+  <circle cx="360" cy="370" r="32" fill="#0d0d0d" stroke="#f5a623" stroke-width="8"/>
+  <circle cx="360" cy="370" r="12" fill="#f5a623"/>
+  <!-- Rail -->
+  <rect x="40" y="405" width="430" height="12" rx="6" fill="#f5a623" opacity="0.6"/>
+  <!-- Headlight -->
+  <circle cx="400" cy="270" r="20" fill="#fff" opacity="0.9"/>
+  <circle cx="400" cy="270" r="12" fill="#ffe066"/>
+</svg>
